@@ -1,0 +1,37 @@
+# Игнорировать виртуальное окружение
+.venv/
+
+# PyInstaller артефакты
+dist/
+build/
+*.spec
+
+# Pycache и кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и данные, сгенерируемые приложением
+logs/
+*.log
+
+# Бэкап и временные файлы
+*.tmp
+*.bak
+
+# Издания/иконки, которые генерируются во время сборки
+icon.ico
+
+# Редакторы/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Прочее
+.DS_Store
+Thumbs.db
+
+# Файлы PyInstaller (если создаются заново)
+KeyDairy.spec
