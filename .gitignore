@@ -32,6 +32,7 @@ icon.ico
 # Прочее
 .DS_Store
 Thumbs.db
+config.json
 
 # Файлы PyInstaller (если создаются заново)
 KeyDairy.spec

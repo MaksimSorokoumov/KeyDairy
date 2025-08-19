@@ -1,0 +1,7 @@
+
+pynput==1.8.1
+cryptography==45.0.6
+psutil==7.0.0
+pywin32==311
+pystray==0.19.5
+pillow==11.3.0
